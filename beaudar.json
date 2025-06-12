@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://shanmoyu.github.io"
+    "https://shanmoyu.github.io",
+    "http://localhost:4000"
   ]
 }
